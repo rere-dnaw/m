@@ -1,0 +1,41 @@
+{
+
+       "info": {
+
+        "url_png_icon_64x64": "https://charity-pool.ro/chrty_logo.png",
+
+        "location": "Bucharest, Romania",
+
+        "social": {
+
+            "twitter_handle": "ChrtyPool",
+
+            "telegram_handle": "charitypool",
+
+            "github_handle": "Alexd1985"
+
+        },
+
+        "about": {
+
+            "me": "Single Pool Operator",
+
+            "server": "1BP + 3Relays located in Germany, SUA, Romania <CPU:8core|RAM:30G|SSD:200G"
+
+    },
+
+    "my-pool-ids": {
+
+        "0": "00333b89543da962cc92e7ffa45848f42a98f7276780670728ce5256"
+
+    },
+
+    "when-satured-then-recommend": {
+
+        "0": "small pools - support decentralization"
+
+    }
+
+}
+
+}
