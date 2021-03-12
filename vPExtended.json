@@ -4,29 +4,29 @@
 
         "url_png_icon_64x64": "https://charity-pool.ro/chrty_logo.png",
 
-        "location": "Bucharest, Romania",
+        "location": "Bristol, United Kingdom",
 
         "social": {
 
-            "twitter_handle": "ChrtyPool",
+            "twitter_handle": "https://twitter.com/Cryptoguys4",
 
-            "telegram_handle": "charitypool",
+            "telegram_handle": "https://t.me/vivid_pool",
 
-            "github_handle": "Alexd1985"
+            "github_handle": "later"
 
         },
 
         "about": {
 
-            "me": "Single Pool Operator",
+            "me": "Pool Operator",
 
-            "server": "1BP + 3Relays located in Germany, SUA, Romania <CPU:8core|RAM:30G|SSD:200G"
+            "server": "1BP + 2Relays located in Germany, Poland and Belgium"
 
     },
 
     "my-pool-ids": {
 
-        "0": "00333b89543da962cc92e7ffa45848f42a98f7276780670728ce5256"
+        "0": "pool1r9zrp0hpy3dj6lse5vl9yc672v5w7fzrrp62pjcersqe2djm409"
 
     },
 
