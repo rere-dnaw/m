@@ -1,6 +1,1 @@
-{
-    "name": "Vivid Stake Pool",
-    "description": "The future is here.",
-    "ticker": "VIV",
-    "homepage": "https://vivid-pool.info"
-}
+{"name":"Vivid Stake Pool","ticker":"VIP","description":"The future is here.","homepage":"https://vivid-pool.io", "extended": "https://raw.githubusercontent.com/rere-dnaw/m/main/vPExtended.json"}
