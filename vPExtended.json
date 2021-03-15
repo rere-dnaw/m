@@ -2,7 +2,7 @@
 
        "info": {
 
-        "url_png_icon_64x64": "",
+        "url_png_icon_64x64": "https://raw.githubusercontent.com/rere-dnaw/m/main/vivid-logo-64x64.png",
 
         "location": "Bristol, United Kingdom",
 
@@ -10,9 +10,13 @@
 
             "twitter_handle": "Cryptoguys4",
 
-            "telegram_handle": "https://t.me/vivid_pool",
+            "telegram_handle": "vivid_pool",
+               
+            "youtube_handle": "",
 
-            "github_handle": "later"
+            "discord_handle": "",
+               
+            "github_handle": "tabuz"
 
         },
 
